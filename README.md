@@ -17,7 +17,7 @@
 
 <br />
 
-### Languages and Tools I use:
+### Languages and Tools I am good at: 👍
 
 [<img align="left" alt="IntelliJ Idea Ultimate" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png" />][website]
 [<img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][website]
