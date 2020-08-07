@@ -57,6 +57,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VIMCode, make VIM look and feel like VSCode](https://www.muhammadbinyusrat.com/blog/vimcode-make-vim-look-and-feel-like-vscode.html)
+- [Remove duplicates from JavaScript Array based on Object Properties](https://www.muhammadbinyusrat.com/blog/filter-javascript-array-based-on-object-properties.html)
+- [Why Muslims are rather Happy?](https://www.muhammadbinyusrat.com/blog/why-muslims-are-rather-happy.html)
+- [وعجلت اليك ربي لترضى](https://www.muhammadbinyusrat.com/blog/%d9%88%d8%b9%d8%ac%d9%84%d8%aa-%d8%a7%d9%84%d9%8a%d9%83-%d8%b1%d8%a8%d9%8a-%d9%84%d8%aa%d8%b1%d8%b6%d9%89.html)
+- [You’re living a dream life..](https://www.muhammadbinyusrat.com/blog/you-are-living-a-dream-life.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
