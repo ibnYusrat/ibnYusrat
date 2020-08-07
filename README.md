@@ -46,6 +46,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to set up Flutter on Ubuntu 20.04 for Android App Development](https://www.youtube.com/watch?v=w7lu5sOM9LU)
+- [Installing Docker on Ubuntu 20.04 is really easy!](https://www.youtube.com/watch?v=QKHqyRZV6Vk)
+- [How to make Redmi 5 Plus (MIUI) look like Samsung Galaxy S8/S9 (Theme)](https://www.youtube.com/watch?v=XiyTg_PC4vk)
+- [Create and save contacts in Honda Internavi Japanese](https://www.youtube.com/watch?v=b04AmWNHIBs)
+- [The future of Pakistan](https://www.youtube.com/watch?v=7oQrXWRQRjE)
 <!-- YOUTUBE:END -->
 
 ---
