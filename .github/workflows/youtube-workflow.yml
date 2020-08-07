@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Get latest videos from YouTube
 on:
   schedule:
     # Runs every hour
