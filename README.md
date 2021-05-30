@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Flutter, Angular 10 and Firebase.
 - 🌱 I love to learn new things.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can solve the Rubik's Cube. 
 
 ### Connect with me:
