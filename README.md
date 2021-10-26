@@ -46,11 +46,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [لینکس میں KVM کے ذریعے macOS کا سیٹ اپ](https://www.youtube.com/watch?v=qiWGEoOrjKI)
+- [How to press the escape key on your keyboard](https://www.youtube.com/watch?v=ZsLYPK5xF-I)
+- [How to spice up your Linux (Ubuntu) terminal prompt (using powerlevel10k and oh-my-zsh) in 2021](https://www.youtube.com/watch?v=PZTLIVQxxEY)
+- [How to Install WebStorm (or any IntelliJ IDE) in Ubuntu 21.10, the right way!](https://www.youtube.com/watch?v=DBGcbJuMG34)
+- [Kalaam, Pakistan. #shorts](https://www.youtube.com/watch?v=9CrwaegBRxU)
 - [Configure Firebase CI/CD with Gitlab CI (Using Angular as example)](https://www.youtube.com/watch?v=GIXdQjiVnA0)
-- [How to set up Flutter on Ubuntu 20.04 for Android App Development](https://www.youtube.com/watch?v=w7lu5sOM9LU)
-- [Installing Docker on Ubuntu 20.04 is really easy!](https://www.youtube.com/watch?v=QKHqyRZV6Vk)
-- [How to make Redmi 5 Plus (MIUI) look like Samsung Galaxy S8/S9 (Theme)](https://www.youtube.com/watch?v=XiyTg_PC4vk)
 <!-- YOUTUBE:END -->
 
 ---
