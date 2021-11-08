@@ -47,10 +47,10 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [How to press the escape key on your keyboard](https://www.youtube.com/watch?v=ZsLYPK5xF-I)
-- [How to spice up your Linux (Ubuntu) terminal prompt (using powerlevel10k and oh-my-zsh) in 2021](https://www.youtube.com/watch?v=PZTLIVQxxEY)
-- [How to Install WebStorm (or any IntelliJ IDE) in Ubuntu 21.10, the right way!](https://www.youtube.com/watch?v=DBGcbJuMG34)
+- [How to spice up your Linux &lpar;Ubuntu&rpar; terminal prompt &lpar;using powerlevel10k and oh-my-zsh&rpar; in 2021](https://www.youtube.com/watch?v=PZTLIVQxxEY)
+- [How to Install WebStorm &lpar;or any IntelliJ IDE&rpar; in Ubuntu 21.10, the right way!](https://www.youtube.com/watch?v=DBGcbJuMG34)
 - [Kalaam, Pakistan. #shorts](https://www.youtube.com/watch?v=9CrwaegBRxU)
-- [Configure Firebase CI/CD with Gitlab CI (Using Angular as example)](https://www.youtube.com/watch?v=GIXdQjiVnA0)
+- [Configure Firebase CI/CD with Gitlab CI &lpar;Using Angular as example&rpar;](https://www.youtube.com/watch?v=GIXdQjiVnA0)
 <!-- YOUTUBE:END -->
 
 ---
