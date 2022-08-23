@@ -1,10 +1,9 @@
 ### This is [Muhammad bin Yusrat][website] 👋
 
 ## I've been developing software for about 17 years now. 
-- 🔭 I’m currently working on Flutter, Angular 10 and Firebase.
-- 🌱 I love to learn new things.
+- 🔭 I’m currently working with Angular and Firebase.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Work smart.
 - ⚡ Fun fact: I can solve the Rubik's Cube. 
 
 ### Connect with me:
