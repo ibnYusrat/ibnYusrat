@@ -45,7 +45,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Everytime I see coffee ☕ #shorts](https://www.youtube.com/watch?v=GutY-clnDjA)
+- [Every time I see coffee ☕ #shorts](https://www.youtube.com/watch?v=GutY-clnDjA)
 - [Setup Ubuntu for Angular Application Development](https://www.youtube.com/watch?v=S0RKQLFIbvI)
 - [How to spice up your Mac OS terminal in 2022 using iTerm2, oh-my-zsh and powerlevel10k](https://www.youtube.com/watch?v=fJOV40ixEzM)
 - [Restore Linux apps and settings after a fresh install using bash script.](https://www.youtube.com/watch?v=QWUqX6wUUzw)
