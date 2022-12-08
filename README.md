@@ -45,11 +45,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Using OnePlus 6T as a desktop computer for regular use with Windows 11](https://www.youtube.com/watch?v=JVMjBf7uK-0)
 - [How to spice up your Windows PowerShell with oh-my-posh and Windows Terminal on Windows 11!](https://www.youtube.com/watch?v=sLkk7FMvkxQ)
 - [Every time I see coffee ☕ #shorts](https://www.youtube.com/watch?v=GutY-clnDjA)
 - [Setup Ubuntu for Angular Application Development](https://www.youtube.com/watch?v=S0RKQLFIbvI)
 - [How to spice up your Mac OS terminal in 2022 using iTerm2, oh-my-zsh and powerlevel10k](https://www.youtube.com/watch?v=fJOV40ixEzM)
-- [Restore Linux apps and settings after a fresh install using bash script.](https://www.youtube.com/watch?v=QWUqX6wUUzw)
 <!-- YOUTUBE:END -->
 
 ---
