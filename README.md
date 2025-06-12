@@ -46,9 +46,9 @@
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [The problem with ChatGPT: Making up non-existent solutions to programming problems.](https://www.youtube.com/watch?v=YH2thVjRH9Q)
-- [Using OnePlus 6T as a desktop computer for regular use with Windows 11](https://www.youtube.com/shorts/JVMjBf7uK-0)
+- [Using OnePlus 6T as a desktop computer for regular use with Windows 11](https://www.youtube.com/watch?v=JVMjBf7uK-0)
 - [How to spice up your Windows PowerShell with oh-my-posh and Windows Terminal on Windows 11!](https://www.youtube.com/watch?v=sLkk7FMvkxQ)
-- [Every time I see coffee ☕ #shorts](https://www.youtube.com/shorts/GutY-clnDjA)
+- [Every time I see coffee ☕ #shorts](https://www.youtube.com/watch?v=GutY-clnDjA)
 - [Setup Ubuntu for Angular Application Development](https://www.youtube.com/watch?v=S0RKQLFIbvI)
 <!-- YOUTUBE:END -->
 
