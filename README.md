@@ -1,9 +1,9 @@
 ### This is [Muhammad bin Yusrat][website] 👋
 
-## I've been developing software for about 17 years now. 
+## I've been developing software for about 21 years now. 
 - 🔭 I’m currently working with Angular and Firebase.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Work smart.
+- 🥅 2026 Goals: Work smart.
 - ⚡ Fun fact: I can solve the Rubik's Cube. 
 
 ### Connect with me:
